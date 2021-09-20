@@ -1,2 +1,9 @@
 __pycache__
-env
+.env
+.mypy_cache
+docker-stack.yml
+.vscode
+.idea
+app.egg-info
+.coverage
+htmlcov
